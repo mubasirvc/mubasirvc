@@ -21,17 +21,17 @@ I'm a **Full Stack Developer** based in **Bangalore, India**, I specialize in bu
 ---
 
 ## 🔗 Connect with Me
-- 🌐 Portfolio: [mubashirvc.dev](https://vercel.com/mubasirs-p/my-portfolio)
-- 📧 Email: mubashir.vc@example.com *(mubasirvc.dev@gmail.com)*
-- 💼 LinkedIn: [linkedin.com/in/mubashir-vc](https://www.linkedin.com/in/mubasir-vc/)
-- 🖥️ LeetCode: [leetcode.com/mubashirvc](https://leetcode.com/u/mubasirvc/)
+- 🌐 Portfolio: [mubasirvcdev.in](https://vercel.com/mubasirs-p/my-portfolio)
+- 📧 Email: mubasirvc.dev@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/mubasir-vc](https://www.linkedin.com/in/mubasir-vc/)
+- 🖥️ LeetCode: [leetcode.com/mubasir-vc](https://leetcode.com/u/mubasirvc/)
 
 
 ---
 
 ## 📊 GitHub Stats
-![Mubashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashirvc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirvc&layout=compact&theme=radical)
+![Mubashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasirvc&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasirvc&layout=compact&theme=radical)
 
 ---
 
