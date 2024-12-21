@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** based in **Bangalore, India**, I specialize in bu
 ---
 
 ## 🔗 Connect with Me
-- 🌐 Portfolio: [mubasirvcdev.in](https://vercel.com/mubasirs-p/my-portfolio)
+- 🌐 Portfolio: [mubasirvcdev.in](https://my-portfolio-mubasirs-p.vercel.app/)
 - 📧 Email: mubasirvc.dev@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/mubasir-vc](https://www.linkedin.com/in/mubasir-vc/)
 - 🖥️ LeetCode: [leetcode.com/mubasir-vc](https://leetcode.com/u/mubasirvc/)
