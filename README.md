@@ -6,9 +6,9 @@ I'm a **Full Stack Developer** based in **Bangalore, India**, I specialize in bu
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Nest.js
-- **Database:** MySQL, MongoDB, TypeORM
-- **Tools:** Docker
+- **Backend:** Node.js, Nest.js, Express.js
+- **Database:** MySQL, MongoDB, TypeORM, Mongoose
+- **Tools:** Docker, CI/CD
 - **Languages:** TypeScript, JavaScript
 
 ---
