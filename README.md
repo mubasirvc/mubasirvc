@@ -30,6 +30,7 @@ I'm a **Full Stack Developer** based in **Bangalore, India**, I specialize in bu
 ---
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=mubasirvc&color=blue)
 ![Mubashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubasirvc&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubasirvc&layout=compact&theme=radical)
 
