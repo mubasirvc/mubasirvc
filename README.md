@@ -52,15 +52,6 @@ I'm a **Software Engineer & Full Stack Developer** based in **Bangalore, India**
 
 ---
 
-## 🚀 Featured Projects
-
-* **Bus Booking System** — Microservices-based booking platform built with Node.js, RabbitMQ, Redis, gRPC, Docker, PostgreSQL, MySQL, MongoDB, and GitHub Actions.
-* **CoDraw** — Real-time collaborative drawing application with live canvas synchronization and room-based communication.
-* **Billing App** — Invoice management platform with PDF generation and client sharing capabilities.
-* **E-Commerce Platform** — Online dress store with product management, image uploads, and order processing.
-
----
-
 ## 🌱 Currently Exploring
 
 * Advanced System Design
