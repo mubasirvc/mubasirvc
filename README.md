@@ -1,22 +1,73 @@
 # Hi there 👋 I'm Mubashir VC
 
-I'm a **Full Stack Developer** based in **Bangalore, India**, I specialize in building scalable and efficient web applications.
+I'm a **Software Engineer & Full Stack Developer** based in **Bangalore, India**, passionate about building scalable web applications, distributed systems, and modern backend architectures.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Nest.js, Express.js
-- **Database:** MySQL, MongoDB, TypeORM, Mongoose
-- **Tools:** Docker, CI/CD
-- **Languages:** TypeScript, JavaScript
+
+### Frontend
+
+* React
+* Next.js
+* Redux Toolkit
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* gRPC
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+### Architecture & Messaging
+
+* Microservices
+* RabbitMQ
+* Event-Driven Architecture
+
+### DevOps & Tools
+
+* Docker
+* Docker Compose
+* GitHub Actions
+* CI/CD
+* Git
+* GitHub
+* Postman
+
+### Languages
+
+* TypeScript
+* JavaScript
+* C
 
 ---
 
-## 🌱 What I’m Currently Up To
-- Building exciting projects using **React** and **Next.js**.
-- Exploring advanced features in **Docker** and **Nest.js**.
-- Learning and improving skills in **full-stack development**.
+## 🚀 Featured Projects
+
+* **Bus Booking System** — Microservices-based booking platform built with Node.js, RabbitMQ, Redis, gRPC, Docker, PostgreSQL, MySQL, MongoDB, and GitHub Actions.
+* **CoDraw** — Real-time collaborative drawing application with live canvas synchronization and room-based communication.
+* **Billing App** — Invoice management platform with PDF generation and client sharing capabilities.
+* **E-Commerce Platform** — Online dress store with product management, image uploads, and order processing.
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced System Design
+* Distributed Systems
+* Cloud & DevOps
+* Scalable Microservices Architecture
+* Observability and Monitoring
 
 ---
 
